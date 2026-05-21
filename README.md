@@ -15,6 +15,14 @@ A modern, minimal, fully responsive fashion storefront inspired by the structura
 - **🛒 Dynamic Bag Drawer**: Sliding cart tray displaying subtotal updates, shipping, and stateful coupon validation (`NIKE20`, `WELCOME10`).
 - **💳 Multi-Step Checkout**: Full secure form checkouts saving inputs across sessions via `LocalStorage`.
 
+## ⚙️ Tech Stack
+- **Core Library**: React 19 (Vite)
+- **Routing**: React Router DOM 7 (using `HashRouter` for GitHub Pages support)
+- **State Management**: React Context API & `LocalStorage`
+- **Animations**: Framer Motion
+- **Icons**: React Icons (Feather Icons)
+- **Styling**: Pure CSS3 (Fully custom, no external CSS frameworks)
+
 ## 🛠️ Getting Started
 
 ```bash
