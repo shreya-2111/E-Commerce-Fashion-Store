@@ -1,11 +1,11 @@
-# 🛍️ MODA — Luxury E-Commerce Fashion Store
+# 🛍️ VELOUR — Luxury E-Commerce Fashion Store
 
 A modern, minimal, fully responsive fashion storefront inspired by the structural performance design of **Nike** and the minimalist editorial layouts of **Zara**. Built using **React (Vite)**, **HTML5**, **CSS3 (Pure CSS)**, and **JavaScript (ES6+)**.
 
 ---
 
 ## 🌐 Live Demo
-🔗 [MODA Store](https://shreya-2111.github.io/E-Commerce-Fashion-Store/)
+🔗 [VELOUR Store](https://shreya-2111.github.io/E-Commerce-Fashion-Store/)
 
 ## ✨ Key Features
 - **🖤 Minimal Luxury Aesthetic**: Premium typography (`Syne` / `Outfit`) with glassmorphism overlays and dark/light modes.

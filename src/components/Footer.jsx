@@ -21,7 +21,7 @@ const Footer = () => {
         <div style={styles.topSection}>
           {/* Brand Info */}
           <div style={styles.brandCol}>
-            <span style={styles.logo}>MODA</span>
+            <span style={styles.logo}>VELOUR</span>
             <p style={styles.brandDesc}>
               A luxury editorial shopping experience. Inspired by Nike’s structural athleticism and Zara’s minimalist tailoring. Delivering timeless classics worldwide.
             </p>
@@ -100,7 +100,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div style={styles.bottomSection}>
           <p style={styles.copyright}>
-            © 2024 MODA Inc. All Rights Reserved.
+            © 2024 VELOUR Inc. All Rights Reserved.
           </p>
           <div style={styles.bottomLinks}>
             <a href="#/privacy" style={styles.bottomLink}>Privacy Policy</a>

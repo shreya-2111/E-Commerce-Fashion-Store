@@ -45,7 +45,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <Link to="/" style={styles.logo}>
-            MODA
+            VELOUR
           </Link>
 
           {/* Desktop Navigation Links */}
@@ -127,7 +127,7 @@ const Navbar = () => {
               style={styles.mobileSidebar}
             >
               <div style={styles.mobileSidebarHeader}>
-                <span style={styles.logo}>MODA</span>
+                <span style={styles.logo}>VELOUR</span>
                 <button
                   onClick={() => setMobileMenuOpen(false)}
                   style={styles.closeBtn}
@@ -177,7 +177,7 @@ const Navbar = () => {
 
               <div style={styles.mobileSidebarFooter}>
                 <p style={styles.mobileFooterText}>Inspired by Zara & Nike</p>
-                <p style={{ ...styles.mobileFooterText, fontSize: '0.75rem', opacity: 0.6 }}>© 2024 MODA Inc.</p>
+                <p style={{ ...styles.mobileFooterText, fontSize: '0.75rem', opacity: 0.6 }}>© 2024 VELOUR Inc.</p>
               </div>
             </motion.div>
           </>

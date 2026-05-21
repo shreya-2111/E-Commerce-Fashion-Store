@@ -20,7 +20,7 @@ const About = () => {
           <span style={styles.preHeading}>OUR ARCHITECTURAL PHILOSOPHY</span>
           <h1 style={styles.mainTitle}>STRUCTURE & SILHOUETTE</h1>
           <p style={styles.introText}>
-            MODA was conceived at the intersection of two distinct design disciplines: the biomechanical, aerodynamic structure of technical sportswear, and the loose, minimal tailoring of modern European fashion.
+            VELOUR was conceived at the intersection of two distinct design disciplines: the biomechanical, aerodynamic structure of technical sportswear, and the loose, minimal tailoring of modern European fashion.
           </p>
         </div>
       </section>
